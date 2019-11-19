@@ -1,0 +1,6 @@
+echo "# waffles-ps-quicos" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeiro commit" 
+git remote add origin https://github.com/cavalcante-r/waffles-ps-quicos
+ Mestre de origem .git git push -u
